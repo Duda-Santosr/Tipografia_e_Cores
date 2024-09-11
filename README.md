@@ -1,5 +1,5 @@
 # Tipografia_e_Cores🎨
-## Site Ruim e Desorganizado
+## Site Ruim e Desorganizado 😖
 ![siteruim](https://github.com/user-attachments/assets/a63e0386-be1b-45d7-84d1-0606fc2ac067)
 * Proximidade: O site está desorganizado e sem espaçamento entre os elementos, já que tem alguns elementos que estão um em cima do outro, que faz parecer uma bagunça. Isso dificulta a navegação do site, não conseguir visualizar e encontrar os itens dele.
 * Repetição: O site não possui um padrão nos seus elementos como nas cores, estampas, fontes, imagens e nos tamanhos, resultando em um site feio e menos atrativo.
@@ -8,7 +8,7 @@
 * Harmonia: O site não é harmônico nem nas suas cores e nem nos seus layouts, que iriam comtribuir para uma página mais organizada.
 
 
-## Site Bom e Organizado
+## Site Bom e Organizado 😍
 ![Captura de tela_11-9-2024_15254_www victoriassecret com](https://github.com/user-attachments/assets/7c537ed7-d426-4a5b-8acb-3ee595cfa8c7)
 * Proximidade: O site é organizado e possui espaçamento entre todos os elementos.
 * Repetição: O site tem um padrão nos seus elementos como as cores, fontes, imagens, e tamanhos, fazendo a página ter um bom design e ser atrativo.
